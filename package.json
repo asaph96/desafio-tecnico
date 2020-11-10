@@ -1,0 +1,15 @@
+{
+  "name": "desafio-tecnico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/asaph96/desafio-tecnico.git",
+  "author": "asaph96",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^5.6.0",
+    "mocha": "^8.2.1"
+  },
+  "scripts":{
+    "e2e": "cypress open"
+  }
+}
